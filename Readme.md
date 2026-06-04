@@ -36,7 +36,7 @@ expense_tracker/
 1. Clone the repository
 
 ```bash
-git clone <repo-link>
+git clone https://github.com/atul220805-dev/expense-tracker-python.git
 ```
 
 2. Open project folder
@@ -64,4 +64,4 @@ This project helped me practice:
 - Charts and graphs
 - Monthly spending trends
 - Export to CSV
-- AI spending recommendations
+- AI spending recommended
